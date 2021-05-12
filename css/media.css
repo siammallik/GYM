@@ -1,0 +1,389 @@
+@media(min-width:1400px) and (max-width:1516px){
+    .content p {
+        margin-bottom: 45px;
+        padding: 0 42px;
+    }
+
+    .content p::before {
+        top: 106px;
+        left: -33px;
+        width: 73px;
+    }
+    .content::before {
+        top: 120px;
+        left: -33px;
+        width: 189px;
+        height: 213px;
+    }
+    .content::after {
+        top: 120px;
+        right: -55px;
+        width: 169px;
+        height: 213px;
+    }
+    .content p::after {
+        top: 106px;
+        right: -55px;
+        width: 62px;
+    }
+}
+
+
+@media(min-width:1200px) and (max-width:1399px){
+
+    .content::before {
+        top: 120px;
+        left: -46px;
+        height: 209px;
+    }
+    .content p::before {
+        top: 102px;
+        left: -46px;
+        width: 51px;
+    }
+    .content::after {
+        top: 120px;
+        right: -55px;
+        width: 136px;
+        height: 209px;
+    }
+
+
+    .content p::after {
+        top: 103px;
+        right: -55px;
+        width: 29px;
+    }
+    .advice-slider .slick-dots {
+        padding-left: 508px;
+        top: 120%;
+    }
+    .advice-text {
+        padding-right: 27px;
+    }
+    .left-logo {
+        left: 3%;
+    }
+    .right-logo {
+        right: 3%;
+    }
+    .hour-main {
+        font-size: 12px;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px){
+    .content::before {
+        top: 120px;
+        left: -84px;
+        height: 213px;
+     
+    }
+    .content p::before {
+        top: 109px;
+        left: -84px;
+    }
+    .content p::after {
+        top: 109px;
+        right: -95px;
+        width: 30px;
+    }
+    .content::after {
+        top: 120px;
+        right: -95px;
+        width: 146px;
+        height: 214px;
+    }
+    .about-item {
+        margin-top: 77px;
+    }
+    .about-text p {
+        padding: 0 15px;
+    }
+    .advice-slider .slick-dots {
+        padding-left: 420px;
+        top: 110%;
+    }
+    .advice-text {   
+        padding-right: 28px;
+    }
+    .left-logo {
+        left: 5%;
+    }
+    .right-logo {
+        right: 5%;
+    }
+    .content::before {
+        top: 120px;
+        left: -79px;
+        width: 170px;
+        height: 210px;
+    }
+    .content p::before {
+        top: 105px;
+        left: -79px;
+        width: 47px;
+    }
+}
+
+
+@media(min-width:768px) and (max-width:991.98px){
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .navbar-toggler i {
+      color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-nav {
+     background-color: black;
+     padding-bottom: 10px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0;
+        text-align: center;
+        padding-bottom: 25px;
+   
+    }
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-left: 30px;
+    }
+    .content::before {
+        border: none;
+    }
+    .content::after {
+        border: none;
+    }
+
+    .content p::after {
+        border: none;
+    }
+    
+    .content p::before {
+        border: none;
+    }
+    .content p {
+        margin-bottom: 60px;
+        padding: 0 60px;
+    }
+    .advice-text{
+        padding-right: 20px;
+    }
+    .about-text{
+        padding-top: 30px;
+    }
+    .about-text p {
+     padding: 0 20px;
+ }
+ .team-icon i {
+	margin-left: 142px;
+}
+.advice-slider .slick-dots {
+	padding-left: 305px;
+	top: 110%;
+}
+.content2 p {
+	padding-bottom: 30px;
+	padding-right: 100px;
+}
+}
+
+
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .navbar-toggler i {
+      color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-nav {
+     background-color: black;
+     padding-bottom: 10px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0;
+        text-align: center;
+        padding-bottom: 25px;
+   
+    }
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-left: 30px;
+    }
+    .content::before {
+        border: none;
+    }
+    .content::after {
+        border: none;
+    }
+
+    .content p::after {
+        border: none;
+    }
+    
+    .content p::before {
+        border: none;
+    }
+    .about-text{
+        padding-top: 30px;
+    }
+    .about-text p {
+     padding: 0 20px;
+ }
+.team-icon i{
+    margin-left: 150px;
+}
+.advice-text{
+    padding-right: 20px;
+}
+.nav-link {
+	padding: 16px 59.5px;	
+}
+
+
+}
+
+
+
+
+
+@media(max-width:575.98px)  {
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .navbar-toggler i {
+      color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-nav {
+     background-color: black;
+     padding-bottom: 10px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0;
+        text-align: center;
+        padding-bottom: 25px;
+   
+    }
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-left: 30px;
+    }
+    .content::before {
+        border: none;
+    }
+    .content::after {
+        border: none;
+    }
+
+    .content p::after {
+        border: none;
+    }
+    
+    .content p::before {
+        border: none;
+    }
+    .content h2 {
+        font-size: 25px;
+    }
+    .content h3 {
+        font-size: 50px;
+    }
+    .content p {
+        font-size: 13px;
+        line-height: 22px;
+        padding: 0 20px;
+        padding-bottom: 30px;
+    }
+
+    .content a {
+        font-size: 14px;
+    }
+    .content2 h2 {
+        font-size: 25px;
+    }
+    .content2 h3 {
+        font-size: 50px;
+    }
+    .content2 p {
+        font-size: 13px;
+        line-height: 22px;
+        padding-bottom: 30px;
+        padding-right: 40px;
+    }
+
+    .content2 a {
+        font-size: 14px;
+    }
+
+   .about-text{
+       padding-top: 30px;
+   }
+   .about-text p {
+	padding: 0 20px;
+}
+    .advice-text{
+        padding-right: 20px;
+    }
+    .gal-header img{
+        padding-bottom: 15px;
+    }
+    #member{
+        padding-top: 50px;
+    }
+    #count{
+        margin-top: 50px;
+    }
+    .team-text-item {
+        padding-bottom: 30px;
+    }
+   
+    .nav-link {
+        padding: 14px 23px;
+    }
+    .class-main {
+        padding: 30px 0px;
+        margin: 2px 0px;
+    }
+    .left-logo {
+        left: 15px;
+        top: 40%;
+    }
+    .right-logo {
+        right: 15px;
+        top: 40%;
+    }
+    .opening-header{
+        padding-top: 20px;
+    }
+  
+
+}
+@media(width:480px){
+
+    .advice-slider .slick-dots {
+        padding-left: 189px;
+        top: 254px;
+    }
+    .nav-link {
+        padding: 17px 30px;
+    }
+
+}
